@@ -1,3 +1,6 @@
+pip install gunicorn
+pip freeze > requirements.txt
+
 blinker==1.9.0
 click==8.2.1
 Flask==3.1.1
